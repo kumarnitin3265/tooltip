@@ -1,0 +1,15 @@
+
+.tooltipContainer{
+    position: relative;
+}
+
+.tooltip{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 280px;
+    text-decoration: underline;
+    text-decoration-style:dashed;
+    font-family:'Times New Roman', Times, serif;
+}
